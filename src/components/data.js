@@ -22,7 +22,7 @@ export default [
         "postedAt": "1d ago",
         "contract": "Full Time",
         "location": "USA Only",
-        "languages": ["HTML", "CSS", "JavaScript"],
+        "languages": ["H", "CSS", "JavaScript"],
         "tools": []
     },
     {
