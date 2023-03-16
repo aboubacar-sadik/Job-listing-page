@@ -37,7 +37,7 @@ export default [
         "postedAt": "1d ago",
         "contract": "Part Time",
         "location": "Remote",
-        "languages": ["Python"],
+        "languages": ["Pythonn"],
         "tools": ["React"]
     },
     {
