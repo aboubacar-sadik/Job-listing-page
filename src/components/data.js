@@ -22,7 +22,7 @@ export default [
         "postedAt": "1d ago",
         "contract": "Full Time",
         "location": "USA Only",
-        "languages": ["H", "CSS", "JavaScript"],
+        "languages": ["HTML", "CSS", "JavaScript"],
         "tools": []
     },
     {
@@ -37,7 +37,7 @@ export default [
         "postedAt": "1d ago",
         "contract": "Part Time",
         "location": "Remote",
-        "languages": ["Pythonn"],
+        "languages": ["Python"],
         "tools": ["React"]
     },
     {
